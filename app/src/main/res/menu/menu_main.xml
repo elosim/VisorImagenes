@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/RotarI" android:title="Rotar Izquierda"></item>
+    <item android:id="@+id/RotarD" android:title="Rotar Derecha"></item>
+    <item android:id="@+id/ByN" android:title="Escala de grises"></item>
+
+</menu>
